@@ -21,3 +21,7 @@
     background-color: #d35757;
     color: white;
   }
+  .content {
+    max-width: 500px;
+    margin: auto;
+  }
