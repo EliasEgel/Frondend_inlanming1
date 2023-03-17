@@ -22,6 +22,9 @@
     color: white;
   }
   .content {
-    max-width: 500px;
+    max-width: 1000px;
     margin: auto;
+  }
+  .p1  {
+    font-family: "Lucida Console", "Courier New", monospace;
   }
